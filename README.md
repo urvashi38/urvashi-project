@@ -1,2 +1,2 @@
 # urvashi-project
-this is my project on github
+hey, welcome to my project
